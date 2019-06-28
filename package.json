@@ -1,0 +1,13 @@
+{
+  "name": "REST-API-web-server",
+  "version": "1.0.0",
+  "scripts": {
+    "rest-api": "json-server data.js -p 666 -m authorization.js"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.15.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
