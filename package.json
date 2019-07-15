@@ -5,7 +5,9 @@
     "rest-api": "json-server data.js -p 666 -m authorization.js"
   },
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.14"
+  },
   "devDependencies": {
     "json-server": "^0.15.0",
     "jsonwebtoken": "^8.5.1"
