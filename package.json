@@ -6,7 +6,7 @@
   },
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "json-server": "^0.15.0",
