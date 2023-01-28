@@ -9,7 +9,7 @@
     "lodash": "^4.17.14"
   },
   "devDependencies": {
-    "json-server": "^0.15.0",
+    "json-server": "^0.17.1",
     "jsonwebtoken": "^8.5.1"
   }
 }
